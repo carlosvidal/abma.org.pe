@@ -53,8 +53,20 @@
         <nav role="navigation">
           <ul>
             <li>
-              <a href="/" title="{{ site.title }}">Home</a>
+              <a href="/" title="{{ site.title }}">Inicio</a>
             </li>
+			<li>
+			  <a href="/quienes-somos" title="{{ site.title }}">Quienes somos</a>
+			</li>
+			<li>
+			  <a href="/historia" title="{{ site.title }}">Quienes somos</a>
+			</li>
+			<li>
+			  <a href="/servicios-a-la-comunidad" title="{{ site.title }}">Servicios a la comunidad</a>
+			</li>
+			<li>
+			  <a href="/donaciones" title="{{ site.title }}">Donaciones</a>
+			</li>
             
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
