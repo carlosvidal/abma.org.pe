@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Quienes somos
-permalink: /quienes-somos/
+title: Sobre nosotros
+permalink: /sobre-nosotros/
 ---
 
 Somos una Asociación Civil sin fines de lucro, persona jurídica de derecho privado creada hace varios años que funciona por voluntad de sus asociados para prestar ayuda social. En la actualidad son 17 sus integrantes entre damas y varones, nuestra razón social es Asociación Benéfica María Auxiliadora con domicilio legal en Av. Ricardo Elías Aparicio 771 oficina 305 Urbanización La Portada de La Planicie, La Molina, Lima, Perú, con teléfono N° 4983236, y correo electrónico  abmaperu@yahoo.es  nuestro  RUC  es 20194881879
