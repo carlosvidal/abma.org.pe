@@ -2,6 +2,7 @@
 layout: page
 title: Donaciones
 permalink: /donaciones/
+order: 4
 ---
 
 Las personas o entidades que desearan colaborar con nosotros deben saber que somos una entidad totalmente formal y legal, cumplimos con nuestras obligaciones legales y tributarias por lo que recibimos colaboraciones de entidades como la de  Buckner Perú que es subsidiaria de **Buckner Internacional** que recibe de **TOMS** las zapatillas que hemos donado a Centros Gerontológicos, Colegios Especiales, Comunidades Indígenas etc.  a quienes agradecemos por otorgarnos su confianza.

@@ -2,6 +2,7 @@
 layout: page
 title: Servicios
 permalink: /servicios/
+order: 3
 ---
 
 En nuestro domicilio legal en La Molina en forma cotidiana realizamos:

@@ -2,6 +2,7 @@
 layout: page
 title: Historia de la Asociación
 permalink: /historia-de-la-asociacion/
+order: 2
 ---
 
 En el año 1974 se creó el primer club de leones en La Molina con el nombre de **Club de Leones La Molina**, el mismo que se inscribió en los Registros Públicos con 28 asociados, funcionando en el domicilio del que fuera elegido presidente, haciendo actividades de recaudación de fondos para cubrir sus necesidades de ayuda y gastos operativos en la zona que le tocaba actuar, pagando sus asociados su cuota de afiliación a la autoridad local y a la internacional por ser el club  miembro de la Asociación Internacional de Clubes de Leones, con sede en USA.
